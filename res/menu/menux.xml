@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_save2"
+          android:icon="@drawable/save"
+          android:title="@string/save"
+          android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/menu_save3"
+          android:icon="@drawable/reload"
+          android:title="@string/reload"
+          android:showAsAction="ifRoom|withText" />
+</menu>

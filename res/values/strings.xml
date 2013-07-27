@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string  name="app_name" >Fonte</string>
+    <string name="menu_string">help</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="save">save</string>
+    <string name="share">share</string>
+    <string name="reload">refresh</string>
+    <string name="page1">pager1</string>
+    <string name="page2">pager2</string>
+    <string name="page3">pager3</string>
+</resources>
